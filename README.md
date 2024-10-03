@@ -26,16 +26,16 @@ npm run start
 ```
 ## Screenshots
 
-### 1. Screenshot 207
+### 1. Signup
 ![Screenshot 207](./ss/Screenshot%20(207).png)
 
-### 2. Screenshot 208
+### 2. emailverification
 ![Screenshot 208](./ss/Screenshot%20(208).png)
 
-### 3. Screenshot 209
+### 3. login
 ![Screenshot 209](./ss/Screenshot%20(209).png)
 
-### 4. Screenshot 4
+### 4. dashboard
 ![Screenshot 4](./ss/ss4.jpg)
 
 
