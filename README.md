@@ -27,15 +27,15 @@ npm run start
 ## Screenshots
 
 ### 1. Screenshot 207
-![Screenshot 207](./frontend/ss/Screenshot%20(207).png)
+![Screenshot 207](./ss/Screenshot%20(207).png)
 
 ### 2. Screenshot 208
-![Screenshot 208](./frontend/ss/Screenshot%20(208).png)
+![Screenshot 208](./ss/Screenshot%20(208).png)
 
 ### 3. Screenshot 209
-![Screenshot 209](./frontend/ss/Screenshot%20(209).png)
+![Screenshot 209](./ss/Screenshot%20(209).png)
 
 ### 4. Screenshot 4
-![Screenshot 4](./frontend/ss/ss4.jpg)
+![Screenshot 4](./ss/ss4.jpg)
 
 
